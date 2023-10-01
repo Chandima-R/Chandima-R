@@ -88,7 +88,7 @@
 <br/>
 
 [![Chandima-R's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chandima-R&theme=github&bg_color=fefce9&color=000000&line=094900&point=db01f8)](https://github.com/Chandima-R/github-readme-activity-graph)
-[![Chandima-R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Chandima-R's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chandima-R)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
