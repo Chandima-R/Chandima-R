@@ -4,9 +4,9 @@
             
 - 🔭 I'm currently worknig **LEAFY CODE**
 - 👀 I’m interested in **Full Stack Development**
-- 🌱 I’m currently learning **Golang, Serveless Stack and Devops**
+- 🌱 I’m currently learning **Angular, NodeJs and Devops**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
-- 🎯 More focused on **Artificial Intelligence and Neuroscience**
+- 🎯 More focused on **Artificial Intelligence and Mobile Development**
 
 <br>
 
