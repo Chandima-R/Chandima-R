@@ -75,7 +75,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/Chandima-R/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandima-R's streak" src="https://streak-stats.demolab.com?user=Chandima-R&hide_border=true&border_radius=3.5"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandima-R's streak" src="https://streak-stats.demolab.com?user=Chandima-R&hide_border=true&border_radius=1.5"/>
     </a>
  </p>
  <p align="center">
