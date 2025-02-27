@@ -2,7 +2,7 @@
 
 <!-- <p align="center"><img align="left" width="180" height="160" margin-right="60px" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" height="180"></p> -->
             
-- 🔭 I'm currently worknig **ALPHA MEDIA**
+- 🔭 I'm currently worknig **CIMA**
 - 👀 I’m interested in **Full Stack Development**
 - 🌱 I’m currently learning **Angular, NodeJs and Devops**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
