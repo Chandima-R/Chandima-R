@@ -4,9 +4,9 @@
             
 - 🔭 I'm currently worknig **CIMA**
 - 👀 I’m interested in **Full Stack Development**
-- 🌱 I’m currently learning **Angular, NodeJs and Devops**
+- 🌱 I’m currently learning **ExpressJs, NodeJs and Devops**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
-- 🎯 More focused on **Artificial Intelligence and Mobile Development**
+- 🎯 More focused on **Artificial Intelligence and Backend Development**
 
 <br>
 
