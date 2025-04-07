@@ -2,11 +2,11 @@
 
 <!-- <p align="center"><img align="left" width="180" height="160" margin-right="60px" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" height="180"></p> -->
             
-- 🔭 I'm currently worknig **CIMA**
+- 🔭 I'm currently working at **CIMA**
 - 👀 I’m interested in **Full Stack Development**
 - 🌱 I’m currently learning **NestJs, NodeJs and REST APIs**
 - 💞️ I’m looking to collaborate on **Innovative, but Creative projects**
-- 🎯 More focused on **Artificial Intelligence and Backend Development**
+- 🎯 More focused on **UI/UX development and Backend Development**
 
 <br>
 
