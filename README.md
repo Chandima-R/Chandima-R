@@ -1,5 +1,31 @@
-# 💫 About Me:
-- 🔭 I'm currently working at **CIMA**<br>- 👀 I’m interested in **Full Stack Development**<br>- 🌱 I’m currently learning **NestJs, NodeJs and REST APIs**<br>- 💞️ I’m looking to collaborate on **Innovative, but Creative projects**<br>- 🎯 More focused on **UI/UX development and Backend Development**
+# 👋 Hey there! I'm **Chandima Rathnayake**
+
+🚀 Currently building cool stuff at **CIMA**
+
+---
+
+🔭 Passionate about **Full Stack Development** with a love for both **UI/UX design** and **robust backend systems**
+
+## 🌱 Currently diving deep into:
+- ⚙️ **NestJS** & **Node.js**
+- 🌐 **RESTful APIs** & scalable backend architecture
+
+## 💡 Always open to collaborating on:
+- 🎨 Innovative + Creative Projects  
+- 📱 Web & Mobile App Development  
+- 🧠 Anything that blends **design thinking** with **technical precision**
+
+---
+
+## ✨ Focus Areas:
+- **Frontend**: React / Next.js, TailwindCSS, ShadCN UI  
+- **Backend**: Prisma, MongoDB, PostgreSQL  
+- **Bonus**: Clerk Authentication, GraphQL, Realtime Data
+
+---
+
+📬 Let’s connect and bring bold ideas to life!
+
 
 
 # 💻 Tech Stack:
