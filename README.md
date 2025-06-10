@@ -18,9 +18,9 @@
 ---
 
 ## ✨ Focus Areas:
-- **Frontend**: React / Next.js, TailwindCSS, ShadCN UI  
-- **Backend**: Prisma, MongoDB, PostgreSQL  
-- **Bonus**: Clerk Authentication, GraphQL, Realtime Data
+- **Frontend**: Next.js, TailwindCSS, ShadCN UI  
+- **Backend**: Prisma, MongoDB, PostgreSQL, Nest Js  
+- **Bonus**: Clerk Authentication, GraphQL, Realtime Data, Next Auth
 
 ---
 
